@@ -1,4 +1,4 @@
 function Home() {
-    return <h1>Teste muito maais arrumado demais demais</h1>
+    return <h1> Te amo meu amo, vem logo come poke co eu </h1>
 }
 export default Home;
